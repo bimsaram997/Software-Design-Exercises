@@ -1,0 +1,6 @@
+com\mycompany\fitnesstracker\FitnessView.class
+com\mycompany\fitnesstracker\App.class
+com\mycompany\fitnesstracker\SystemInfo.class
+module-info.class
+com\mycompany\fitnesstracker\FitnessController.class
+com\mycompany\fitnesstracker\FitnessModel.class
